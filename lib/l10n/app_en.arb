@@ -1,0 +1,98 @@
+{
+  "@@locale": "en",
+  "appTitle": "Wellbeing Tracker",
+  "@appTitle": {
+    "description": "The application title"
+  },
+  "dashboard": "Dashboard",
+  "mentalHealth": "Mental Health",
+  "physicalHealth": "Physical Health",
+  "skinHealth": "Skin Health",
+  "settings": "Settings",
+  "hrv": "Heart Rate Variability",
+  "hrvValue": "{value} ms",
+  "@hrvValue": {
+    "placeholders": {
+      "value": {
+        "type": "num"
+      }
+    }
+  },
+  "heartRate": "Heart Rate",
+  "heartRateValue": "{value} bpm",
+  "@heartRateValue": {
+    "placeholders": {
+      "value": {
+        "type": "num"
+      }
+    }
+  },
+  "steps": "Steps",
+  "stepsValue": "{value} steps",
+  "@stepsValue": {
+    "placeholders": {
+      "value": {
+        "type": "num"
+      }
+    }
+  },
+  "sleep": "Sleep",
+  "sleepHours": "{hours} hours",
+  "@sleepHours": {
+    "placeholders": {
+      "hours": {
+        "type": "num"
+      }
+    }
+  },
+  "mood": "Mood",
+  "stress": "Stress Level",
+  "anxiety": "Anxiety Level",
+  "energy": "Energy Level",
+  "skinCondition": "Skin Condition",
+  "hydration": "Hydration",
+  "moisture": "Moisture Level",
+  "acne": "Acne",
+  "today": "Today",
+  "thisWeek": "This Week",
+  "thisMonth": "This Month",
+  "connectHealth": "Connect Health Data",
+  "connectHealthDescription": "Connect to Apple Health or Google Fit to automatically track your wellbeing metrics",
+  "grantPermission": "Grant Permission",
+  "permissionRequired": "Permission Required",
+  "permissionDescription": "This app needs access to your health data to track your wellbeing metrics",
+  "noData": "No Data Available",
+  "noDataDescription": "Connect your health app to start tracking",
+  "trackMood": "Track Mood",
+  "moodRating": "How are you feeling?",
+  "veryGood": "Very Good",
+  "good": "Good",
+  "neutral": "Neutral",
+  "bad": "Bad",
+  "veryBad": "Very Bad",
+  "save": "Save",
+  "cancel": "Cancel",
+  "addNote": "Add Note",
+  "notes": "Notes",
+  "date": "Date",
+  "time": "Time",
+  "viewDetails": "View Details",
+  "lastSync": "Last Sync",
+  "syncNow": "Sync Now",
+  "language": "Language",
+  "selectLanguage": "Select Language",
+  "english": "English",
+  "spanish": "Spanish",
+  "turkish": "Turkish",
+  "polish": "Polish",
+  "theme": "Theme",
+  "light": "Light",
+  "dark": "Dark",
+  "system": "System",
+  "about": "About",
+  "version": "Version",
+  "privacy": "Privacy Policy",
+  "terms": "Terms of Service"
+}
+
+
